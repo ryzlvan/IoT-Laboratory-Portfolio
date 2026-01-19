@@ -16,7 +16,7 @@ The system uses a **Thermistor** to measure heat and a **Photoresistor (LDR)** t
 * **Jumper Wires & Breadboard**: For circuit connections.
 
 ## 🔌 Wiring Diagram
-This circuit requires constructing two "voltage dividers" for the analog sensors.
+This circuit requires constructing wires for the analog sensors.
 
 <img src="Breadboard Diagram.png" alt="Alt text for the image" width="1000" height="1000">
 
@@ -97,3 +97,4 @@ void loop() {
   }
 }
 ```
+
