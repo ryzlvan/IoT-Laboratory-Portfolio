@@ -1,4 +1,4 @@
-# Activity 2: Working with Analog Signal - Analog Signal Fading Sequence
+# Laboratory Activity 2: Working with Analog Signal - Analog Signal Fading Sequence
 
 ## 📖 Overview
 This activity introduces the concept of **Analog Signals** using **Pulse Width Modulation (PWM)**. Unlike digital signals that are strictly **ON** (HIGH) or **OFF** (LOW), PWM allows us to simulate varying voltage levels to control the brightness of LEDs.
@@ -86,3 +86,4 @@ int j = i - 5; // Reset index to start from the first LED again
   }
 }
 ```
+
